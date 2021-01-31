@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Bye now!
 Sorry, not actually bye yet, text here to test divergent branches
 Adding stuff here to try rebase
+=======
+Hey! I'm Alice. I'm a file someone added to this repository a while ago.
+>>>>>>> 98bfef93e0aeca47c290d8518f74f25aac0b2804
